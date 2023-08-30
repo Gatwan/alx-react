@@ -1,4 +1,4 @@
-import { seq } from 'immutable';
+import { Seq } from 'immutable';
 
 const printBestStudents = (object) => {
   const seq = Seq(object);
